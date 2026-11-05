@@ -1,0 +1,11 @@
+# Python packages discussed for the project.
+# Choose TensorFlow/Keras OR PyTorch according to the implementation.
+tensorflow
+# torch
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+pytesseract
